@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="homeWork.homeWork2.Person.Person(man,name)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>

@@ -53,4 +53,7 @@ public class Person {
         }
     }
 
+    public Person getSpouse() {
+        return spouse;
+    }
 }
